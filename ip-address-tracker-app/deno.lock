@@ -74,6 +74,7 @@
         "npm:eslint-plugin-react@^7.34.3",
         "npm:eslint@^8.57.0",
         "npm:leaflet@^1.9.4",
+        "npm:netlify-cli@^17.33.4",
         "npm:postcss@^8.4.39",
         "npm:prettier-plugin-tailwindcss@^0.6.5",
         "npm:prettier@^3.3.3",
