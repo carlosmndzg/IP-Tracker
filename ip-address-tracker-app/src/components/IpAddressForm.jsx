@@ -122,7 +122,7 @@ function InformationField({ title, value }) {
 
 function Separator() {
   return (
-    <div className="hidden w-[1px] self-stretch bg-dark_grey lg:block"></div>
+    <li className="hidden w-[1px] self-stretch bg-dark_grey lg:block"></li>
   );
 }
 

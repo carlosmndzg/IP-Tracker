@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ip-tracker-using-react-eHa0-v_r9m)
+- Live Site URL: [Live Site](https://ip-tracker-carlosmndzg.netlify.app/)
 
 ## My process
 
