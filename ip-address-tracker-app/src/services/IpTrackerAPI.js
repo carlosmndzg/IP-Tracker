@@ -6,6 +6,9 @@
 const getInformationByIP = async (ip = "") => {
   const response = await fetch(
     `http://ip-api.com/json/${ip}?fields=status,message,country,regionName,city,lat,lon,timezone,isp,as,query`,
+    {
+      referrerPolicy: "unsafe-url",
+    },
   );
   const data = await response.json();
 
